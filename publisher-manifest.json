@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "6dc3c010460b0a2216ff08dd",
+  "owner": "txadscvfa",
+  "repo": "page-cbee79d39e209709c2afb0ae",
+  "title": "CLOUD",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cbee79d39e209709c2afb0ae",
+      "a": "CLOUD",
+      "b": "",
+      "entity": "CLOUD",
+      "brand": "CLOUD",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7d6729c1f6e43b776b764d895b105638bebb267d6d9160518d90276dcdce424c",
+      "content": {
+        "keyword1": "CLOUD",
+        "keyword2": "",
+        "primary_entity": "CLOUD",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "CLOUD 提供安全高速的云端连接服务，让您在全球范围内畅享无阻网络。",
+          "AI_DESCRIPTION": "CLOUD 提供安全高速的云端连接服务，让您在全球范围内畅享无阻网络。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--primary: #a855f7;--bg: #f5f5f5;--text: #333;--light: #f3e8ff}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;background: var(--bg);color: var(--text);line-height: 1.7;padding-bottom: 80px}\n        .hero {height: 100vh;display: flex;align-items: center;justify-content: center;text-align: center;background: linear-gradient(180deg, #f5f5f5 0%, #e0d4f7 100%);position: relative;overflow: hidden}\n        .hero::before {content: '';position: absolute;inset: 0;background: radial-gradient(circle at 50% 30%, rgba(168, 85, 247, 0.15) 0%, transparent 70%);pointer-events: none}\n        .hero-content {max-width: 920px;padding: 0 2rem;z-index: 2}\n        .hero h1 {font-size: clamp(3.5rem, 8vw, 7.5rem);font-weight: 900;line-height: 1;color: var(--primary);margin-bottom: 1rem;letter-spacing: -4px;text-shadow: 0 10px 30px rgba(168, 85, 247, 0.2)}\n        .hero p {font-size: 1.35rem;color: #666;max-width: 520px;margin: 0 auto 2.5rem}\n        .hero button {background: var(--primary);color: white;border: none;padding: 16px 42px;font-size: 1.05rem;border-radius: 9999px;font-weight: 600;cursor: pointer;transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);box-shadow: 0 10px 25px -5px rgb(168 85 247)}\n        .hero button:hover {transform: translateY(-4px);box-shadow: 0 20px 25px -5px rgb(168 85 247)}\n        .nav-bottom {position: fixed;bottom: 0;left: 0;right: 0;background: white;border-top: 1px solid #e5e5e5;display: flex;justify-content: space-around;padding: 14px 0;z-index: 50}\n        .nav-bottom a {color: var(--primary);text-decoration: none;font-size: 0.92rem;font-weight: 500;transition: color 0.3s}\n        .nav-bottom a:hover {color: #7c3aed}\n        .container {max-width: 1280px;margin: 0 auto;padding: 0 1.5rem}\n        .section {padding: 100px 0 80px}\n        .section-title {font-size: 2.1rem;font-weight: 700;margin-bottom: 3rem;text-align: center;position: relative;color: #111}\n        .section-title::after {content: '';width: 60px;height: 3px;background: var(--primary);position: absolute;bottom: -12px;left: 50%;transform: translateX(-50%);border-radius: 3px}\n        .intro-text {max-width: 780px;margin: 0 auto 4rem;font-size: 1.15rem;text-align: center;color: #555}\n        .features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 1.75rem;margin-top: 2rem}\n        .feature-card {background: white;border-radius: 20px;padding: 2rem;box-shadow: 0 10px 30px -15px rgb(0 0 0 / 0.15);transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);position: relative}\n        .feature-card:hover {transform: translateY(-12px)}\n        .feature-card::before {content: '';position: absolute;left: 0;top: 0;bottom: 0;width: 6px;background: linear-gradient(to bottom, var(--primary), #c084fc);border-top-left-radius: 20px;border-bottom-left-radius: 20px}\n        .feature-card h3 {font-size: 1.35rem;margin-bottom: 1rem;color: #111}\n        .plan-grid {display: flex;flex-direction: column;gap: 1.75rem;max-width: 880px;margin: 0 auto}\n        .plan-card {background: white;border-radius: 24px;overflow: hidden;box-shadow: 0 20px 40px -15px rgb(168 85 247 / 0.18);transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);position: relative}\n        .plan-card:hover {transform: translateY(-12px);box-shadow: 0 30px 50px -12px rgb(168 85 247 / 0.25)}\n        .plan-card.featured {border: 3px solid var(--primary);transform: scale(1.03)}\n        .plan-header {padding: 1.75rem 2rem 1rem;background: linear-gradient(135deg, #f8f1ff, #f0e6ff);border-bottom: 1px solid #e5d6ff;display: flex;align-items: center;gap: 1rem}\n        .plan-header.featured {background: linear-gradient(135deg, #a855f7, #c084fc);color: white}\n        .plan-name {font-size: 1.55rem;font-weight: 700}\n        .plan-price {font-size: 2.1rem;font-weight: 700;margin-bottom: 4px}\n        .plan-price.featured {color: white}\n        .plan-features {padding: 1.75rem 2rem 2rem}\n        .plan-features ul {list-style: none}\n        .plan-features li {padding: 0.75rem 0;display: flex;align-items: flex-start;gap: 12px;font-size: 1.05rem}\n        .plan-features li::before {content: '✓';color: var(--primary);font-size: 1.4rem;flex-shrink: 0}\n        .plan-features li.featured {font-weight: 500}\n        .faq-container {max-width: 860px;margin: 0 auto}\n        details {background: white;margin-bottom: 12px;border-radius: 18px;overflow: hidden;box-shadow: 0 8px 25px -10px rgb(0 0 0 / 0.1)}\n        summary {padding: 1.5rem 2rem;font-size: 1.15rem;font-weight: 600;cursor: pointer;list-style: none;position: relative;transition: all 0.3s}\n        summary::marker {display: none}\n        summary::-webkit-details-marker {display: none}\n        summary:hover {background: #f8f1ff}\n        details[open] summary {background: #f8f1ff}\n        details[open] summary::after {content: '−';position: absolute;right: 2rem;font-size: 1.8rem;color: var(--primary)}\n        details:not([open]) summary::after {content: '+';position: absolute;right: 2rem;font-size: 2rem;color: var(--primary)}\n        .faq-content {padding: 0 2rem 1.75rem;font-size: 1.05rem;color: #555}\n        .faq-content p {margin-bottom: 1.25rem}\n        footer {text-align: center;padding: 3rem 1rem 2rem;color: #888;font-size: 0.9rem}\n    </style><section class=\"hero\">\n        <div class=\"hero-content\">\n            <h1>CLOUD</h1>\n            <p>安全连接 无限可能</p>\n            \n        </div>\n    </section>\n\n    <main class=\"container\">\n        <h2 class=\"section-title\">在连接的时代，选择CLOUD</h2>\n        \n        <div class=\"intro-text\">\n            <p>数字世界的每一次连接，都需要可靠的保障。CLOUD 立足于用户真实需求，构建起一套安全且高效的云端服务体系。它帮助成千上万个人和组织，在日常工作中保持顺畅的网络体验，让探索不再受限。</p>\n        </div>\n\n        <section class=\"section\">\n            <h2 class=\"section-title\">核心能力</h2>\n            <div class=\"features-grid\">\n                <div class=\"feature-card\">\n                    <h3>海量流量</h3>\n                    <p>从基础套餐到企业级方案，我们始终提供充足的带宽容量，让您无需担心随时断流。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>多设备支持</h3>\n                    <p>无论您使用手机、平板还是电脑，都能实现稳定连接。支持多台设备同时在线，满足现代生活需求。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>流媒体解锁</h3>\n                    <p>无论观看热门平台内容还是参与国际交流，CLOUD 都能带来原生体验。网络不再设限。</p>\n                </div>\n                <div class=\"feature-card\">\n                    <h3>专业服务</h3>\n                    <p>企业用户可获得专属路由方案和客户经理支持，确保连接始终如一。</p>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"section\">\n            <h2 class=\"section-title\">选择适合您的套餐</h2>\n            <div class=\"plan-grid\">\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div>\n                            <div class=\"plan-name\">基础版</div>\n                            <div class=\"plan-price\">¥15/月</div>\n                            <div>按年付仅需 ¥150/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 100GB 高速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                </div>\n\n                \n                <div class=\"plan-card featured\">\n                    <div class=\"plan-header featured\">\n                        <div>\n                            <div>最受欢迎</div>\n                            <div class=\"plan-name\">旗舰版</div>\n                            <div class=\"plan-price\">¥35/月</div>\n                            <div>按年付仅需 ¥350/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 300GB 高速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                    </div>\n                </div>\n\n                \n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div>\n                            <div class=\"plan-name\">团队版</div>\n                            <div class=\"plan-price\">¥85/月</div>\n                            <div>按年付仅需 ¥850/年</div>\n                        </div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 1000GB 高速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"section\">\n            <h2 class=\"section-title\">常见问题</h2>\n            <div class=\"faq-container\">\n                <details>\n                    <summary>如何开始使用 CLOUD？</summary>\n                    <div class=\"faq-content\">\n                        <p>访问官网注册账号，下载或直接在网页上安装客户端，然后按照引导完成配置，即可立即连接网络。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>流量如何计算？</summary>\n                    <div class=\"faq-content\">\n                        <p>所有流量均基于实际使用量计算，月结周期内未使用的部分可累积至下月。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <div class=\"faq-content\">\n                        <p>支持 Windows、macOS、Android、iOS 及路由器等主流设备，广泛的兼容性让您随时随地连接。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>如何管理套餐？</summary>\n                    <div class=\"faq-content\">\n                        <p>登录用户中心即可查看剩余流量、切换节点或升级降级方案，所有操作都在账户管理面板中完成。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>如何获得技术支持？</summary>\n                    <div class=\"faq-content\">\n                        <p>旗舰版及以上套餐可享受 7x24 工单响应，基础版同样提供邮件和在线工单支持。</p>\n                    </div>\n                </details>\n                <details>\n                    <summary>隐私和安全如何保障？</summary>\n                    <div class=\"faq-content\">\n                        <p>所有流量均经过端到端加密，符合严格的数据保护标准，让您的网络活动始终保持私密。</p>\n                    </div>\n                </details>\n            </div>\n        </section>\n    </main>\n\n    <nav class=\"nav-bottom\">\n        <a href=\"#hero\">首页</a>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#faq\">FAQ</a>\n        <a href=\"#intro\">关于</a>\n    </nav>",
+          "hash": "7b709cee2add00fc8817f66d2b69fd834e5fc4c92e68e360345f68481ad062ae",
+          "seo": {
+            "title": "CLOUD - 安全高速的云端连接",
+            "keywords": "CLOUD,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "CLOUD 提供安全高速的云端连接服务，让您在全球范围内畅享无阻网络。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "3273",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "saxzptn.cn",
+    "host": "p-a1794ef140.saxzptn.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "84f014810c8f88fa3bc1252c6b5325360ef31fb8304eb35fe2cde8e2a88bced0",
+    "sitemap.xml": "62fdd753bd4017f6a61884db82bd4d82566dca2657b2b57cdec258e741f10dcf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b90a3cd69482bd4101aff67a05b1691a358516e158f5e2b79c8a70a7eb18fb2b",
+    "robots.txt": "9f2671a537608d1c37c410ee0f6de702410c899e443fa58b2fc0c2a3cc18ce37",
+    "c4df17bdc96062906f46b631466f94f2.txt": "365af59135c4ac10526bbc4396c07cca63cccc45177295fa241361ce103041f7"
+  },
+  "revision": "8ee3c1ec751ba68533b26b531fc2b1987fda09c37c22ac9f321ccc6d9021f057"
+}
